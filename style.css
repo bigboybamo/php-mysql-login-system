@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+.form-div{
+
+    margin:50px auto 50px;
+    padding:25px 15px 10px 15px;
+    border: 1px solid blue;
+    border-radius:5px;
+    font-size: 1.12m;
+    font-family: 'lora', serif;
+
+}
+
+form p{
+
+    font-size:0.89em;
+}
+
+.form-div.login {
+    margin-top: 100px;
+}
+
+.logout{
+
+    color:red;
+}
